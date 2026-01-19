@@ -1,2 +1,0 @@
-# dual_color
-d
