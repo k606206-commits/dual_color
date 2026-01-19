@@ -697,9 +697,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## 작동 이미지
 
-
-GREEN  (3초) → YELLOW (1초) → RED (3초) : <img src="https://github.com/user-attachments/assets/24764718-a460-4419-befd-c3e60c2a3c2e">
-베터리 레벨표시 :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: <img src="https://github.com/user-attachments/assets/26405b36-07d1-43fb-994a-221f88fa9ce8">
+GREEN  (3초) → YELLOW (1초) → RED (3초) &nbsp;: <img src="https://github.com/user-attachments/assets/24764718-a460-4419-befd-c3e60c2a3c2e"><br>
+베터리 레벨표시 100% ~ 0%밝기 및 점멸까지&nbsp; : <img src="https://github.com/user-attachments/assets/26405b36-07d1-43fb-994a-221f88fa9ce8">
 
 
 
